@@ -1,2 +1,3 @@
 second file created in develp-remote br
 this line written locally to make conflict.
+and this sentence added from dev-remote
